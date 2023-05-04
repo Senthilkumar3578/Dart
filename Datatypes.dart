@@ -19,6 +19,8 @@ void   main( ) {
      bool val    = (s==st);
      print (val); 
 
+
+
      List l=[1,2,3,4,5];
      for(int i=0;i<l.length;i++){
          print(l[i]);
